@@ -1,2 +1,2 @@
-# Wall-density
-Shooting bullets at wall to test durability
+# p5.play-boilerplate
+Boiler plate for p5.play
